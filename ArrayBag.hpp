@@ -1,4 +1,8 @@
-//Arraybag.hpp
+
+// Farhana Sultana 
+// farhana.sultana79@myhunter.cuny.edu
+// Csci 235
+// project 3
 
 #ifndef ARRAY_BAG_
 #define ARRAY_BAG_
